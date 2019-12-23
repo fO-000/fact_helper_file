@@ -457,3 +457,6 @@
 >>8 string	\xff\xff	YAFFS filesystem, big endian
 !:mime filesystem/yaffs
 
+## Awesome FS
+0   string       \x61\x62\x63\x64\x65\x66   Awesome AF;
+!:mime  filesystem/awesome_fs
