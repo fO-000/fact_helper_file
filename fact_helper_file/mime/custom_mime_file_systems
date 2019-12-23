@@ -458,5 +458,5 @@
 !:mime filesystem/yaffs
 
 ## Awesome FS
-0   string       \x61\x62\x63\x64\x65\x66   Awesome AF;
+0   string       \x00\x01\x02\x03\x04\x10   Awesome AF;
 !:mime  filesystem/awesome_fs
